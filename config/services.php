@@ -32,7 +32,7 @@ return [
     ],
 
     'telegram' => [
-        'bot_token' => env('7493714403:AAEcT_aumC4-V2QQkPdV0m7lcLZ024t_ywo'),
+        'bot_token' => env('create token'),
     ],
 
 ];
